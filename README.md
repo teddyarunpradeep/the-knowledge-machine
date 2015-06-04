@@ -11,3 +11,7 @@ It is fundamentally a list management
 - List can be of many types and each can of set of rules. (Usecase based lists)
 - List and items have set of attributes - example: importance, status
 - All the lists and items are autocomplete searchable.
+
+---------------------------------------------------------
+- Create/manage list/add item
+- Dashboard
