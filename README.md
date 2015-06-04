@@ -12,6 +12,6 @@ It is fundamentally a list management
 - List and items have set of attributes - example: importance, status
 - All the lists and items are autocomplete searchable.
 
----------------------------------------------------------
+------------------screens---------------------------------------
 - Create/manage list/add item
 - Dashboard
